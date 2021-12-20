@@ -1,0 +1,9 @@
+VIBGYOR
+V iolet
+I ndigo
+B lue
+G reen
+Y ellow
+O range 
+R ed
+Seven colors of Rainbow.
