@@ -4,6 +4,8 @@ V iolet
 I ndigo
 B lue
 G reen
+P ink
+B lack
 Y ellow
 O range 
 R ed
