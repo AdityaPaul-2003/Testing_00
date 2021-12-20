@@ -1,3 +1,4 @@
+The Rainbow and the Unicorn
 VIBGYOR
 V iolet
 I ndigo
@@ -6,4 +7,4 @@ G reen
 Y ellow
 O range 
 R ed
-Seven colors of Rainbow.
+Seven colors of Rainbow and the Unicorn
